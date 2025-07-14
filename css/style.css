@@ -19,7 +19,7 @@ body{
     color: rgb(149, 149, 149);
 }
 #booleaner{
-    color: #00aaff;
+    color: #73bfde;
 }
 h1{
     margin-bottom: 0;
@@ -39,4 +39,18 @@ figcaption{
 ul{
     list-style-position: inside;
     padding-inline-start: 0%;
+}
+table{
+    width: 100%;
+    border-spacing: 0px
+}
+thead{
+    background-color: #1ea9e7;
+    color: white;
+}
+.bluelist{
+    background-color: #b1e6f2;
+}
+td{
+    min-width: 250px;
 }
