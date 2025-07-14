@@ -3,16 +3,32 @@ body{
 }
 #banner{
     background-color: #00aaff;
-    height: 200px;
+    height: 100px;
     width: 100%;
+}
+#logo-booleaner{
+    width: 40px;
 }
 .page{
     max-width: 1080px;
     margin: auto;
 }
+.sottotitolo{
+    margin: 0;
+    font-style: normal;
+    color: rgb(149, 149, 149);
+}
 #booleaner{
     color: #00aaff;
 }
-.sottotitolo{
-    margin: 0;
+h1{
+    margin-bottom: 0;
+    font-size: 2.5em;
+}
+figure{
+    margin-left: 0;
+    margin-right: 0;
+}
+figcaption{
+    font-size: 12px;
 }
