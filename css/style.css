@@ -32,3 +32,11 @@ figure{
 figcaption{
     font-size: 12px;
 }
+.class{
+    contain: auto;
+    text-align: left;
+}
+ul{
+    list-style-position: inside;
+    padding-inline-start: 0%;
+}
