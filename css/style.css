@@ -3,6 +3,8 @@ body{
 }
 #banner{
     background-color: #00aaff;
+    background-size: 400px;
+    background-image: url(../img/pattern.png);
     height: 100px;
     width: 100%;
 }
