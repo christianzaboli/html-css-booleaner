@@ -29,8 +29,10 @@ table{
     border-spacing: 0px
 }
 
-thead{
+th{
     background-color: #1ea9e7;
+    text-align: left;
+    font-weight: lighter;
     color: white;
 }
 
