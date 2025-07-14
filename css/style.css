@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+#banner{
+    background-color: #00aaff;
+    height: 200px;
+    width: 100%;
+}
+.page{
+    max-width: 1080px;
+    margin: auto;
+}
+#booleaner{
+    color: #00aaff;
+}
+.sottotitolo{
+    margin: 0;
+}
