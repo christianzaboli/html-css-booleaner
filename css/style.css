@@ -8,8 +8,14 @@ body{
     height: 100px;
     width: 100%;
 }
+#logo-banner{
+    height: 50px;
+    max-width: 1080px;
+    margin: auto;
+}
 #logo-booleaner{
-    width: 40px;
+    width: 200px;
+    margin-top: 40px;
 }
 .page{
     max-width: 1080px;
